@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Jain</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India 🇮🇳</h3>
 
-- 🌱 I’m currently learning **ReactJs and NodeJs**
+- 🏢 I'm working for a organization in India as Software Developer. 
 
 - ⚡ Fun fact **I like to code in Morning**
 
