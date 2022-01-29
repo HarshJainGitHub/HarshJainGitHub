@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJs and NodeJs**
 
-- ⚡ Fun fact **I Like to Early Morning**
+- ⚡ Fun fact **I like to code in Morning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
