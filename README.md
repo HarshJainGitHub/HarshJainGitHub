@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh Jain</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , I'm Harsh Jain</h1>
 <h3 align="center">A passionate developer from India </h3>
 
 - 🏢 I'm working for a organization in India as Software Developer. 
