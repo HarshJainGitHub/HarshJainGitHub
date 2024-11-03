@@ -1,9 +1,12 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , I'm Harsh Jain</h1>
 <h3 align="center">A passionate developer from India </h3>
 
-- 🏢 I'm working for a organization in India as Associate Consultant. 
-
-- ⚡ Fun fact **I like to code in Morning**
+- 🏢 I'm working for a organization in India as **Senior Associate Consultant**
+- 👀 I’m have knowledge related to **React and JavaScript**...
+- 🎈 I create API using NodeJS, ExpressJS, MongoDB and exploring CI/CD in my free time ... 
+- 🌱 I’m currently learning **Advance topics in JavaScript and React framework**...
+- 💞️ I’m looking to collaborate related to Web Devlopment Projects ...
+- ⚡ Fun fact about me **I like to code in Morning** 😜
 
 <h3 align="left"> Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px"> </h3>
 <p align="left">
